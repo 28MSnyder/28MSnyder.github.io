@@ -1,12 +1,13 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Test Map","order":7,"parentId":3,"scrollX":811,"scrollY":457.5},
+{"id":1,"expanded":false,"name":"Test Map","order":3,"parentId":3,"scrollX":811,"scrollY":449.5},
 {"id":2,"expanded":true,"name":"oHouse","order":1,"parentId":0,"scrollX":811,"scrollY":449.5,"quick":false},
 {"id":3,"expanded":true,"name":"iHouse","order":2,"parentId":2,"scrollX":811,"scrollY":457.5,"quick":false},
-{"id":4,"expanded":true,"name":"Mason","order":3,"parentId":3,"scrollX":811,"scrollY":502.5,"quick":false},
-{"id":5,"expanded":true,"name":"boulderPass","order":4,"parentId":4,"scrollX":1081,"scrollY":502.5,"quick":false},
-{"id":6,"expanded":true,"name":"MAP006","order":5,"parentId":5,"scrollX":1092,"scrollY":672.5,"quick":false},
-{"id":7,"expanded":false,"name":"MAP007","order":6,"parentId":6,"scrollX":1081.3333333333333,"scrollY":599.3333333333334,"quick":false},
-{"id":8,"expanded":true,"name":"Forest pass","order":8,"parentId":3,"scrollX":1212,"scrollY":1017,"quick":false},
-{"id":9,"expanded":false,"name":"Bank","order":9,"parentId":8,"scrollX":811,"scrollY":457.5,"quick":false}
+null,
+null,
+null,
+null,
+{"id":8,"expanded":true,"name":"Forest pass","order":4,"parentId":3,"scrollX":1212,"scrollY":1017.5,"quick":false},
+{"id":9,"expanded":true,"name":"Bank","order":5,"parentId":8,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":10,"expanded":false,"name":"Atown","order":6,"parentId":9,"scrollX":1101,"scrollY":457.5,"quick":false}
 ]
