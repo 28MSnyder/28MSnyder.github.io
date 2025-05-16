@@ -5,12 +5,13 @@
 body {
     width: 80%;
     margin: auto;
+   color:black
 }
 
 header {
-    color: #ebff33;
-    border: 5px solid #010407;
-    background-color: #552a5e;
+    color: white;
+   border:5px #37393A;
+    background-color: #77B6EA;
     margin-bottom: 10px;
     padding: 10px;
     text-align: center;
@@ -18,24 +19,47 @@ header {
 
 nav {
     color: rgb(240, 6, 6);
-    border: 5px solid #000000;
-    background-color: #ffffff;
+   border:10px #37393A;
+    background-color: #77B6EA;
     margin-bottom: 10px;
     padding: 10px;
 }
 
 
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding: 0px;
+    text-align: center;
+}
 
+img{
+ padding-right: 850px;
+ padding-top: 30px;
+ 
+}
 
+p{
+    font-size: medium;
+text-align: justify;
+       
+}
+
+h2 {
+    columns: 2;
+    font-size: large;
+    border: 5px  #37393A;
+}
+  
 
 
 article {
     color: white;
-    border: 5px solid yellow ;
-    background-color: #552a5e;
-    margin-bottom: 100px;
-    padding: 10px;
-    columns: 1;
+    border: 5px solid #37393A;
+    background-color: #77B6EA;
+    margin-bottom: 60px;
+    padding-bottom: 30px;
     text-align: center;
     
 }
